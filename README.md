@@ -103,21 +103,21 @@ python star_patterns/right_angled_triangle.py
 
 🎯 Purpose of This Project
 This repository helps beginners to:
-⚫ Build strong Python fundamentals 🧠
-⚫ Improve logical thinking 🔥
-⚫ Prepare for coding interviews 💼
-⚫ Understand loop-based problem solving 📊
+- Build strong Python fundamentals 🧠
+- Improve logical thinking 🔥
+- Prepare for coding interviews 💼
+- Understand loop-based problem solving 📊
 
 🚀 Ideal For
-🔵 Python beginners
-🔵 HND / college students
-🔵 Coding interview preparation
-🔵 Logic building practice
+- Python beginners
+- HND / college students
+- Coding interview preparation
+- Logic building practice
 
 📌 Future Improvements
-🔴 Add menu-driven pattern generator
-🔴 Add user input for dynamic patterns
-🔴 Add GUI version using Tkinter
+- Add menu-driven pattern generator
+- Add user input for dynamic patterns
+- Add GUI version using Tkinter
 
 📄 License
 This project is open-source and free to use for learning purposes.
