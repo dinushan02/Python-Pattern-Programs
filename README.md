@@ -10,6 +10,7 @@ A beginner-friendly collection of Python pattern programs designed to improve **
 ---
 
 ## 📁 Project Structure
+```
 Python-Pattern-Programs/
 │
 ├── star_patterns/
@@ -35,6 +36,7 @@ Python-Pattern-Programs/
 │ └── hollow_diamond_numbers_full.py
 │
 └── README.md
+```
 
 ---
 
